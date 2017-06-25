@@ -1,0 +1,13 @@
+Ingredients:
+	- 2 slices of bread
+	- Peanut butter
+	- Jelly
+	
+Directions:
+1. Using a knife, spread peanut butter onto one side of one slice of bread.
+
+2. Using a knife, spread jelly onto one side of the other slice of bread.
+
+3. Put the two slices of bread together with the peanut butter and jelly facing inward toward each other.
+
+4. Optional: Cut the sandwich diagonally into two triangular halves.
